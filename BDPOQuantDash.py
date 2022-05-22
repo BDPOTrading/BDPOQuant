@@ -1,4 +1,3 @@
-pip install quantstats
 import quantstats as qs
 import os
 from PIL import Image
