@@ -7,3 +7,5 @@ tabulate
 yfinance
 plotly
 quantstats
+pandas_datareader
+pandas_ta
